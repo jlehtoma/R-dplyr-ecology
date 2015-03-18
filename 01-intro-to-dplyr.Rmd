@@ -204,4 +204,5 @@ surveys %>%
   filter(mean_weight > 30 | mean_hf_length > 30)
 ```
 
-
+**RStudio tip** you can use keyboard shortcut `Ctrl+Shift+M` to easily insert 
+the `%>%` pipe operator into your code.
